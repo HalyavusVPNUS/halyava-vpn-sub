@@ -4,12 +4,8 @@
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Бесплатная VPN-подписка 🚀 Всё, что нужно для комфортного и стабильного доступа в интернет :) @halyava_vpnx
 
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=cdn2.swaginozip.fun&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&sid=a13edee689fca1da#🇧🇪 Бельгия #1
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:443?type=xhttp&host=premium.click-connect.online&path=/api/v2/sync/&mode=auto&security=tls&sni=premium.click-connect.online&fp=firefox&allowInsecure=0#🇧🇪 Бельгия #2
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@194.87.31.22:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=mishaduck.duckdns.org&pbk=-FQM2tUbpiBjwjgla2mwkSkFhFIKQU0FQOvRi0ZD_mY&sid=540f5784c2481b5a#🇳🇱 Нидерланды #1
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@194.87.31.22:443?type=xhttp&host=premium.click-connect.online&path=/api/v2/sync/&mode=auto&security=tls&sni=premium.click-connect.online&fp=firefox&allowInsecure=0#🇳🇱 Нидерланды #2
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=yourcloud.ldtp.com&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&sid=7d6203949764f921#🇵🇱 Польша #1
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:443?type=xhttp&host=premium.click-connect.online&path=/api/v2/sync/&mode=auto&security=tls&sni=premium.click-connect.online&fp=safari&allowInsecure=0#🇵🇱 Польша #2
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:443?type=xhttp&host=premium.click-connect.online&path=/api/v2/sync/&mode=auto&security=tls&sni=premium.click-connect.online&fp=qq&allowInsecure=0#🇨🇭 Швейцария #1
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@78.40.117.228:443?type=xhttp&host=premium.click-connect.online&path=/api/v2/sync/&mode=auto&security=tls&sni=premium.click-connect.online&fp=safari&allowInsecure=0#🇸🇪 Швеция #1
- 
+vless://74139fb5-fd3f-4133-a34a-b1d85da7a89f@89.124.115.115:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇳🇱 Нидерланды #1
+vless://62624820-47e3-4498-83ca-c554292f6181@195.123.221.77:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.cloudflare.com&pbk=V7kSKKW2uy3JhtwED_qg_LQMZv_lFX_OgZ-juP0csyE&sid=a92400f7a9ce6278#🇳🇱 Нидерланды #2
+vless://373963db-1cfa-440b-a51b-b06a7f2552e7@fl.convert-flow.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=fl.convert-flow.net&pbk=5iF0c8rLWJeGPr9UpBxuSaQOzbxE8XbrQFHy5UMQc1w&sid=00a61d55a07de885#🇫🇮 Финляндия #1
+vless://9190c233-09d6-4bcf-9903-1854e7899671@multi.fresedvpn.site:61080?type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=tyjPR-2sNQr2CQy5necKZGs_8eGT8LQM0fHFMSWNcBU&sid=e996cc6b726c4add#🇸🇪 Швеция #1
+vless://9190c233-09d6-4bcf-9903-1854e7899671@multi.fresedvpn.site:53540?type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=tyjPR-2sNQr2CQy5necKZGs_8eGT8LQM0fHFMSWNcBU&sid=a48554695ea61703#🇱🇻 Латвия #1
