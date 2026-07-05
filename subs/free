@@ -4,8 +4,7 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Бесплатная VPN-подписка 🚀 Всё, что нужно для комфортного и стабильного доступа в интернет :) @halyava_vpnz
 
-vless://74139fb5-fd3f-4133-a34a-b1d85da7a89f@89.124.115.115:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇳🇱 Нидерланды #1
 vless://62624820-47e3-4498-83ca-c554292f6181@195.123.221.77:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.cloudflare.com&pbk=V7kSKKW2uy3JhtwED_qg_LQMZv_lFX_OgZ-juP0csyE&sid=a92400f7a9ce6278#🇳🇱 Нидерланды #2
-vless://373963db-1cfa-440b-a51b-b06a7f2552e7@fl.convert-flow.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=fl.convert-flow.net&pbk=5iF0c8rLWJeGPr9UpBxuSaQOzbxE8XbrQFHy5UMQc1w&sid=00a61d55a07de885#🇫🇮 Финляндия #1
-vless://9190c233-09d6-4bcf-9903-1854e7899671@multi.fresedvpn.site:61080?type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=tyjPR-2sNQr2CQy5necKZGs_8eGT8LQM0fHFMSWNcBU&sid=e996cc6b726c4add#🇸🇪 Швеция #1
-vless://9190c233-09d6-4bcf-9903-1854e7899671@multi.fresedvpn.site:53540?type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=tyjPR-2sNQr2CQy5necKZGs_8eGT8LQM0fHFMSWNcBU&sid=a48554695ea61703#🇱🇻 Латвия #1
+vless://b7644fae-c7ab-4daf-806b-0b4a22bf7e16@72.56.64.142:8451?type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=apple.com&pbk=Q5mtL2qHRAoPEVnl9GRezCHkTrNTnvW_FL3_HQhhKDo&sid=06011ef464e3313f#🇳🇱 Нидерланды #2
+vless://8550b9eb-8e40-459a-a68e-1819fb630b66@45.9.14.234:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=google.com&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us#🇫🇷 Франция #1
+vless://de2edd29-c746-4dc7-a50b-e0692b01209d@89.125.74.127:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yahoo.com&pbk=QBSuzwfPwj9OW_pE0dQc5qgqnmfjh1Y9c10fq_bLZmQ&sid=99bcf8d2#🇫🇮 Финляндия #1
