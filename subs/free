@@ -4,7 +4,9 @@
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Бесплатная VPN-подписка 🚀 Всё, что нужно для комфортного и стабильного доступа в интернет :) @halyava_vpnz
 
-vless://62624820-47e3-4498-83ca-c554292f6181@195.123.221.77:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.cloudflare.com&pbk=V7kSKKW2uy3JhtwED_qg_LQMZv_lFX_OgZ-juP0csyE&sid=a92400f7a9ce6278#🇳🇱 Нидерланды #2
-vless://b7644fae-c7ab-4daf-806b-0b4a22bf7e16@72.56.64.142:8451?type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=apple.com&pbk=Q5mtL2qHRAoPEVnl9GRezCHkTrNTnvW_FL3_HQhhKDo&sid=06011ef464e3313f#🇳🇱 Нидерланды #2
+vless://367ff772-a8f4-4895-8e99-3702a868f0c6@osnl4.ghast.sbs:443?type=grpc&mode=gun&serviceName=grpc-api&security=tls&sni=osnl4.ghast.sbs&fp=chrome&allowInsecure=0#🇳🇱 Нидерланды #1
+vless://8550b9eb-8e40-459a-a68e-1819fb630b66@45.9.14.234:1443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us#🇳🇱 Нидерланды #2
 vless://8550b9eb-8e40-459a-a68e-1819fb630b66@45.9.14.234:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=google.com&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us#🇫🇷 Франция #1
 vless://de2edd29-c746-4dc7-a50b-e0692b01209d@89.125.74.127:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yahoo.com&pbk=QBSuzwfPwj9OW_pE0dQc5qgqnmfjh1Y9c10fq_bLZmQ&sid=99bcf8d2#🇫🇮 Финляндия #1
+vless://0f816f25-1017-4aa2-b8f7-97115c3f7dec@64.188.91.222:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.amd.com&pbk=-HZml4cOqX6eiw2hUzBpDoN9bksvyAvGoehglkvvkh4#🇩🇪 Германия #1
+vless://74139fb5-fd3f-4133-a34a-b1d85da7a89f@138.124.24.219:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=sw.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇸🇪 Швеция #1
